@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VijayPatidarrr/TextUtils/static/css/main.6e5c7a97.css",
+    "main.js": "/VijayPatidarrr/TextUtils/static/js/main.1cf19859.js",
+    "static/js/787.28cb0dcd.chunk.js": "/VijayPatidarrr/TextUtils/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/VijayPatidarrr/TextUtils/index.html",
+    "main.6e5c7a97.css.map": "/VijayPatidarrr/TextUtils/static/css/main.6e5c7a97.css.map",
+    "main.1cf19859.js.map": "/VijayPatidarrr/TextUtils/static/js/main.1cf19859.js.map",
+    "787.28cb0dcd.chunk.js.map": "/VijayPatidarrr/TextUtils/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e5c7a97.css",
+    "static/js/main.1cf19859.js"
+  ]
+}
